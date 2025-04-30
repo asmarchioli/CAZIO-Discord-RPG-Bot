@@ -1,0 +1,9 @@
+.env
+avisos-e-horarios.txt
+discloud.config
+posts_livros-e-fichas.txt
+requirements.txt
+.vscode/
+__pycache__/
+discloud/
+commands_file/__pycache__/
