@@ -7,3 +7,4 @@ requirements.txt
 __pycache__/
 discloud/
 commands_file/__pycache__/
+teste.py
